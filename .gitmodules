@@ -1,0 +1,6 @@
+[submodule "fastify-chatapp"]
+	path = fastify-chatapp
+	url = https://github.com/da8ah/fastify-chatapp
+[submodule "react-chatapp"]
+	path = react-chatapp
+	url = https://github.com/da8ah/react-chatapp
